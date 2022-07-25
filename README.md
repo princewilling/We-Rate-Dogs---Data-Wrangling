@@ -1,6 +1,6 @@
 # We-Rate-Dogs---Data-Wrangling
 
-![](images/visuals/Data-Wrangling-Diagram.jpeg)
+![](images/dogs/dog1.jpg)
 
 ## INTRODUCTION
 
@@ -126,7 +126,12 @@ Cleaning your data is the third step in data wrangling. It is where we have fixe
 
 - **Define**:  make column names descriptive enough
 
-# Save copies of cleaned datasets to a masters dataset in csv file.
+# Visualization On Wrangled Data
+![](images/visuals/download.png)
+![](images/visuals/download (1).png)
+![](images/visuals/download (3).png)
+![](images/visuals/download (4).png)
+![](images/visuals/download (5).png)
 
 ## References
 
