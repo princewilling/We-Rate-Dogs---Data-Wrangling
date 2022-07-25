@@ -130,8 +130,8 @@ Cleaning your data is the third step in data wrangling. It is where we have fixe
 - **Define**:  make column names descriptive enough
 
 for details visit my repo:
-https://github.com/princewilling/We-Rate-Dogs-Data-Wrangling/blob/main/wrangle_act.ipynb
-https://github.com/princewilling/We-Rate-Dogs-Data-Wrangling/blob/main/wrangle_report.ipynb
+- https://github.com/princewilling/We-Rate-Dogs-Data-Wrangling/blob/main/wrangle_act.ipynb
+- https://github.com/princewilling/We-Rate-Dogs-Data-Wrangling/blob/main/wrangle_report.ipynb
 
 # Visualization On Wrangled Data
 ![](images/edit/1.png)
@@ -143,6 +143,8 @@ https://github.com/princewilling/We-Rate-Dogs-Data-Wrangling/blob/main/wrangle_r
 ![](images/4.png)
 
 ![](images/edit/5.png)
+
+- Visit https://github.com/princewilling/We-Rate-Dogs-Data-Wrangling/blob/main/act_report.ipynb for more details
 
 ## References
 
