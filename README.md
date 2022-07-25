@@ -128,9 +128,13 @@ Cleaning your data is the third step in data wrangling. It is where we have fixe
 
 # Visualization On Wrangled Data
 ![](images/visuals/download.png)
+
 ![](images/visuals/download (1).png)
+
 ![](images/visuals/download (3).png)
+
 ![](images/visuals/download (4).png)
+
 ![](images/visuals/download (5).png)
 
 ## References
