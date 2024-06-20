@@ -1,8 +1,5 @@
 # We-Rate-Dogs---Data-Wrangling
 
-https://github.com/princewilling/We-Rate-Dogs-Data-Wrangling/blob/main/wrangle_act.ipynb
-https://github.com/princewilling/We-Rate-Dogs-Data-Wrangling/blob/main/wrangle_report.ipynb
-
 ![](images/dogs/dog1.jpg)
 
 ## INTRODUCTION
@@ -129,9 +126,9 @@ Cleaning your data is the third step in data wrangling. It is where we have fixe
 
 - **Define**:  make column names descriptive enough
 
-for details visit my repo:
-- https://github.com/princewilling/We-Rate-Dogs-Data-Wrangling/blob/main/wrangle_act.ipynb
-- https://github.com/princewilling/We-Rate-Dogs-Data-Wrangling/blob/main/wrangle_report.ipynb
+for details visit:
+- **Main**: https://github.com/princewillingoo/We-Rate-Dogs-Data-Wrangling/blob/main/wrangle_act.ipynb
+- **Report**: https://github.com/princewillingoo/We-Rate-Dogs-Data-Wrangling/blob/main/wrangle_report.ipynb
 
 # Visualization On Wrangled Data
 ![](images/edit/1.png)
@@ -144,7 +141,7 @@ for details visit my repo:
 
 ![](images/edit/5.png)
 
-- Visit https://github.com/princewilling/We-Rate-Dogs-Data-Wrangling/blob/main/act_report.ipynb for more details
+- Visit https://github.com/princewillingoo/We-Rate-Dogs-Data-Wrangling/blob/main/act_report.ipynb for more details
 
 ## References
 
